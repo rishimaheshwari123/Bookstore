@@ -1,6 +1,6 @@
 ## Bookstore Management </br>
  <div align='center'>
-    <a href="https://quantum-assigment.netlify.app"> 🌐 Live 🌐</a> </div> </br>
+    <a href="https://flynt-task.netlify.app"> 🌐 Live 🌐</a> </div> </br>
 
 ## Tech Stack Used
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
